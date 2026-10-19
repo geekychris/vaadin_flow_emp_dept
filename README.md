@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="Vaadin Flow Emp Dept logo" width="180">
+</p>
+
 # Employee Department Management System
 
 A Spring Boot application with Vaadin Flow UI that provides a complete management system for employees and departments. The application allows creating, updating, and deleting employees and departments via both a web interface and REST API.
